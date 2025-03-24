@@ -14,20 +14,20 @@ body {
 }
 #header{
     padding: 15px;
-    background-color: rgba(71,109,147,1);
+    background-color: rgb(211, 175, 108);
     color: white;
     grid-column: 1/4;
 }
 #aside-left{
     grid-column: 1 / 2;
     padding: 15px;
-    background-color:rgb(126, 46, 11);
+    background-color:rgb(69, 141, 170);
     color: white;
 }
 #aside-right{
     grid-column: 3 / 4;
     padding: 15px;
-    background-color: rgb(126, 75, 46);
+    background-color: rgb(61, 126, 151);
     color: white;
 }
 #main{
@@ -39,6 +39,6 @@ body {
 #footer{
     grid-column: 1 / 4;
     padding: 15px;
-    background-color: rgba(71,109,147,1);
+    background-color: rgb(168, 74, 30);
     color: white;
 }
